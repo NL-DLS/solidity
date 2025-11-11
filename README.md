@@ -12,7 +12,7 @@
 
 Smart Contracts for secure Blockchain Identities, implementation of the ERC734 and ERC735 proposal standards.
 
-Learn more about OnchainID and Blockchain Identities on the official OnchainID website: [https://onchainid.com](https://onchainid.com).
+Learn more about OnchainID and Blockchain Identities on the official ERC3643 documentation: [OnchainID documentation](https://docs.erc3643.org/erc-3643/smart-contracts-library/onchain-identities).
 
 ## Usage
 
